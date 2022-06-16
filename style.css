@@ -15,7 +15,7 @@ p{
     margin: 0,5em 0 0,5em 0;
 }
 
-header{
+.header{
     display: block;
     position: fixed;
     top: 0;
@@ -23,6 +23,10 @@ header{
     width: 100%;
     padding: 10px;
     background-color:darkseagreen;
+}
+
+header.one{
+    width: 100%;
 }
 
 nav a:visited,
